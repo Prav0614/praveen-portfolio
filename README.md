@@ -1,0 +1,2 @@
+- No need to style.css to run the index.html directly we can run the index.html
+- The file which You need like photo and resume this should be in one folder.
